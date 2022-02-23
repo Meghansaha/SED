@@ -17,7 +17,7 @@ We're all in this together. We just need to buckle down, study when we can, and 
 ---
 ### [W3 Schools](https://www.w3schools.com/)
  ↑<sub>Place to look up ALOT of HTML/CSS/Js and more</sub>↑
-### [HTML/CSS Resources](Resources/Javascript.md)
+### [HTML/CSS Resources](Resources/HTML_CSS.md)
 ### [Javascript Resources](Resources/Javascript.md)
 ### [Firebase Documentation](https://firebase.google.com/docs)
 ### [Firebase Project Examples](https://firebase.google.com/docs/samples)
