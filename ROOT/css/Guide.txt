@@ -1,1 +1,0 @@
-This folder is for all css coding needed to dress up the HTML structures.
