@@ -36,3 +36,4 @@
 3. Overly positive sentiment may indicate the person is struggling and afraid to admit they are struggling. 
 
 4. Team health to measure group progress
+
