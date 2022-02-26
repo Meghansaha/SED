@@ -1,0 +1,11 @@
+/* CSS for Login Page */
+* { margin: 0; padding: 0; }
+
+h1{
+    font-family: verdana;
+}
+
+
+/* Things to figure out: 
+linking images responsively
+loading in custom fonts from directory
