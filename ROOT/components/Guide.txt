@@ -1,0 +1,1 @@
+This folder is for common HTML files which we will import later into the main pages with JavaScript (example: navbars, footers, etc.)
