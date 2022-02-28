@@ -1,0 +1,78 @@
+/* CSS for Login Page */
+
+
+html,body{
+    background-color:#ffffff;
+    background-image: url('../img/SEDbckgd.svg');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    height: 100vh;
+    overflow: hidden; 
+}
+
+header{
+    width: 100vw;
+    height: 20vh;
+    background-image: url('../img/SEDHeader2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+}
+
+@font-face {
+    font-family: montserrat;
+    src: url('../fonts/Montserrat-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}   
+
+
+h1{
+    font-family: montserrat;
+    font-size: 40px;
+    color: #001f5f;
+}
+
+.container{
+    background-color: #001f5f;
+    display:inline-block;
+    width:20%;
+    margin:5% auto;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding: 1em;
+    line-height:1.5em;
+    height: 250px;
+    width: 500px;
+}
+
+.inputbox{
+    width: 80%;
+    height: 20%;
+    border: 2px solid #846a6a;
+    font-size: 200%;
+    font-family: montserrat;
+    color: #001f5f;
+    font-weight: bold;
+}
+
+button{
+    width: 50%;
+    height: 20%;
+    background-color: #f4e322;
+    font-size: 200%;
+    vertical-align: middle;
+    font-family: montserrat;
+    color: #001f5f;
+    font-weight: bold;
+} 
+
+button:hover {
+    background-color: #001f5f;
+    color: #f4e322;
+  }
+
+
+/* Things to figure out: 
+linking images responsively
+loading in custom fonts from directory
