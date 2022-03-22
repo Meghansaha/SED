@@ -1,0 +1,26 @@
+{   "name":"Curiousity & Exploration",
+    "version":"1.0",
+    "author":" Kashdan, T. B., Gallagher, M. W., Silvia, P. J., Winterstein, B. P., Breen, W. E., Terhar, D., & Steger, M. F. (2009). The curiosity and exploration inventory-II: Development, factor structure, and psychometrics. Journal of research in personality, 43(6), 987-998.",
+
+
+
+         "questions": {
+                            "inputs": [
+
+                                {"label":"E-mail Address","inputType":"text","optional":"false"},
+                                {"label":"I actively seek as much information as I can in new situations.","inputType":"checkbox","optional":"false"},
+                                {"label":"I am the type of person who really enjoys the uncertainty of everyday life.","inputType":"checkbox","optional":"false"},
+                                {"label":"I am the best when doing something that is complex or challenging.","inputType":"checkbox","optional":"false"},
+                                {"label":"Everywhere I go, I am out looking for new things or experiences.","inputType":"checkbox","optional":"false"},
+                                {"label":"I view challenging situations as an opportunity to grow and learn.","inputType":"checkbox","optional":"false"},
+                                {"label":"I like to do things that are a little frightening.","inputType":"checkbox","optional":"false"},
+                                {"label":"I am always looking for experiences that challenge how I think about myself and the world.","inputType":"checkbox","optional":"false"},
+                                {"label":"I prefer jobs that are excitingly unpredictable.","inputType":"checkbox","optional":"false"},
+                                {"label":"I frequently seek out opportunities to challenge myself and grow as a person.","inputType":"checkbox","optional":"false"},
+                                {"label":"I am the kind of person who embraces unfamiliar people, events, and places.","inputType":"checkbox","optional":"false"}
+                        
+                                      ]
+                      
+                     }
+
+}

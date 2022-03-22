@@ -1,0 +1,24 @@
+{
+    "name":"Wins & Goals",
+    "version":"1.0",
+    "author":"Shawna Curran",
+
+
+        "questions" :
+            {
+                "inputs": [
+
+                {"label":"E-mail Address","inputType":"text","optional":"false"},
+                {"label":"Select Your Name","inputType":"","optional":"false"}, 
+                {"label":"Did You Accomplish Your Goal Last Week?","inputType":"text","optional":"false"}, 
+                {"label":"How Are You Feeling About That?","inputType":"text","optional":"false"},  
+                {"label":"Name One Thing You Would Call a Win This Week","inputType":"text","optional":"false"},
+                {"label":"Name One Goal for the Upcoming Week","inputType":"text","optional":"false"}
+            
+            ]
+
+            }
+
+        
+
+}
