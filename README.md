@@ -29,6 +29,10 @@ The directory structure will be updated/changed as the project is fleshed out mo
 <br>
 *Contains all javascript files for the app.*
 
+<u>**[SQL Folder](ROOT/sql)** </u>
+<br>
+*Contains all SQL scripts for the app.*
+
 ## Resources
 We're all in this together. We just need to buckle down, study when we can, and get to work. Here's some resources to help:
 
@@ -41,6 +45,6 @@ We're all in this together. We just need to buckle down, study when we can, and 
  ↑<sub>Place to look up ALOT of HTML/CSS/Js and more</sub>↑
 ### [HTML/CSS Resources](Resources/HTML_CSS.md)
 ### [Javascript Resources](Resources/Javascript.md)
-### [Firebase Documentation](https://firebase.google.com/docs)
-### [Firebase Project Examples](https://firebase.google.com/docs/samples)
+### [SQL Resources](https://dev.mysql.com/doc/refman/8.0/en/)
+### [Google Cloud Function Resources](https://cloud.google.com/functions)
 </center>
